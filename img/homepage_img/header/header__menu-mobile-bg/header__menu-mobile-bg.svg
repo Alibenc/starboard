@@ -1,0 +1,6 @@
+<svg width="1440" height="3100" viewBox="0 0 1440 3100" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<rect x="0" y="0" fill="#000" width="2880" height="3100" />
+	<image x="0" y="0" href="header__bg-vector.svg" width="1440" height="1445"/>
+	<image transform="matrix(1 0 0 -1 0 1990)" href="header__bg-vector.svg" width="1440" height="1445"/>
+	<image x="0" y="1989.999" href="header__bg-vector.svg" width="1440" height="1445"/>
+</svg>

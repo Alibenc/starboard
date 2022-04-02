@@ -1,0 +1,37 @@
+*, *::before, *::after {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+a {
+	text-decoration: none;
+	display: inline-block;
+}
+ul, ol, li {
+	list-style: none;
+}
+img {
+	vertical-align: top;
+}
+html, body {
+	height: 100%;
+	line-height: 1;
+	font-size: 16px;
+	color: #000;
+	font-family: 'Poppins', sans-serif;
+}
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+img {
+	display: block;
+}
+.full-container {
+	width: 100%;
+}
+.container {
+	margin: 0 auto;
+	max-width: 81.25vw;
+}
